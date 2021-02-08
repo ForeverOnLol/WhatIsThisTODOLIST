@@ -1,2 +1,3 @@
 # WhatIsThisTODOLIST
 This is to do list...
+Репозиторий создан для ознакомительный целей и не более:) 
